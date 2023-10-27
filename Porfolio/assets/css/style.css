@@ -1,0 +1,42 @@
+.nav1
+{
+    transition: 0.7s
+}
+.nav1:hover
+{
+    background-color:blanchedalmond;
+    /*transition-delay:0.5ms;*/
+}
+.nav2
+{
+    transition: 0.7s;
+}
+.nav2:hover
+{
+    background-color: #0a58ca;
+    height: 100px;
+}
+.mypic{
+    background-image: url("../img/profile1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    color: black;
+    outline: black;
+    background-color: rgba(226, 245, 39, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid yellow;
+}
+hr.new1
+{
+    border: 1px solid black;
+}
+.vl {
+    border-left: 2px solid black;
+    height: 440px;
+}
